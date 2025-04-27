@@ -9,7 +9,7 @@ This template provides a minimal setup to get React working in **Vite** with **S
 **Option A – Create a new project using degit (recommended)**
 
 ```bash
-npx degit scalux/vite-template my-app
+npx degit scalux/scalux-vite-template my-app
 cd my-app
 npm install # or use pnpm / yarn
 npm run dev # http://localhost:5173
@@ -18,7 +18,7 @@ npm run dev # http://localhost:5173
 **Option B – Clone the repository (with Git history)**
 
 ```bash
-git clone https://github.com/scalux/vite-template.git my-app
+git clone https://github.com/scalux/scalux-vite-template.git my-app
 cd my-app
 rm -rf .git # (optional) start with a clean Git history
 npm install
