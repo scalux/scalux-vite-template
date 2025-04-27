@@ -30,7 +30,7 @@ npm run dev
 ## ✨ Features
 
 - **Vite 5** – instant dev server, lightning‑fast HMR, ready for modern browsers.
-- **React 18** with the `@vitejs/plugin-react` preset (SWC under the hood).
+- **React 19** with the `@vitejs/plugin-react` preset (SWC under the hood).
 - **TypeScript 5** – strict by default, paths resolved via `vite-tsconfig-paths`.
 - **Scalux ¹** – state slices, finite‑state machines, and time‑travel debugger already wired.
 - Opinionated project structure that follows the **Reference Architecture** in the Scalux docs.
